@@ -1,4 +1,10 @@
-# ts-vue-3-youtube-ex
+# ts-vue-3-ex
+
+
+
+
+
+## ```tailwind
 
 ## Project setup
 ```
